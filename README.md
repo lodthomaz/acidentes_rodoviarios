@@ -7,7 +7,8 @@ Enjoy!
 
 # app.R
 
-Esse é o código que gera o dashboard em shiny. 
+Esse é o código que gera o dashboard em shiny.  
+Link do dash: https://leticiaoterodiasthomaz.shinyapps.io/Acidentes/  
 
 # gera_dados.R 
 
